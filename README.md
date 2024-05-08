@@ -1,6 +1,6 @@
 # yfinance_stockprice_usdchart_forturkishcompanys
 
-# ALARK.IS Stock Price Analysis
+#Turkish Company's USD Stock Price Chart (Close Price Chart) 
 
 This Python script downloads historical stock price data for ALARK.IS (Alarko Holding) from Yahoo Finance, converts the prices to USD using the USD/TRY exchange rate, and plots the stock price over time. You can change the company, so if you want to change you can write the company's Yahoo Finance name as ticker variable and then you can create your usd price charts for your Turkish Companys.
 
