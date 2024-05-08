@@ -17,8 +17,8 @@ This Python script downloads historical stock price data for ALARK.IS (Alarko Ho
 
 2. Install dependencies:
 
-    pip install yfinance
-    pip install plotly
+- pip install yfinance
+- pip install plotly
 
 
 ## Usage
