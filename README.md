@@ -1,4 +1,4 @@
-# yfinance_stockprice_usdchart_fotturkishcompanys
+# yfinance_stockprice_usdchart_forturkishcompanys
 
 # ALARK.IS Stock Price Analysis
 
