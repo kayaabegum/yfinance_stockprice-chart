@@ -13,9 +13,10 @@ This Python script downloads historical stock price data for ALARK.IS (Alarko Ho
 ## Installation
 
 1. Clone the repository:
+- https://github.com/kayaabegum/yfinance_stockprice_usdchart_forturkishcompanys.git
 
 
-2. Install dependencies:
+3. Install dependencies:
 
 - pip install yfinance
 - pip install plotly
